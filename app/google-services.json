@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123788200508",
+    "firebase_url": "https://regsamlog.firebaseio.com",
+    "project_id": "regsamlog",
+    "storage_bucket": "regsamlog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123788200508:android:516e8dbe06a33403",
+        "android_client_info": {
+          "package_name": "com.apkglobal.regsamlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123788200508-05l9c2ojt1nscp9b3up7spqsi06bl9kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRQFko2k0TjDzqW2-NsOFvoLsyNx7pfWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123788200508-05l9c2ojt1nscp9b3up7spqsi06bl9kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
