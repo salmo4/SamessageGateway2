@@ -39,7 +39,7 @@ public class HomeActivity extends AppCompatActivity {
                 try {
                     // Construct data
                     // key este valoare fixa
-                    String apiKey = "apikey=" + "zHbjyCm0JwY-6WmGbU5EhHOjL7KeJ2sC44F5tvCsFq";
+                    String apiKey = "apikey=" + "i858LD6ZzZA-5ALwtvTOxw5IvugS3wKGJbrBYcG1ug";
                     // mesajul intotdeauna se poate schimba apeland sam_mesaj
                     String message = "&message=" + sam_mesaj.getText().toString();
                     // fiind cont demo nu se poate schimba numele de id a user-ului

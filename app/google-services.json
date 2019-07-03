@@ -1,34 +1,100 @@
 {
   "project_info": {
-    "project_number": "123788200508",
-    "firebase_url": "https://regsamlog.firebaseio.com",
-    "project_id": "regsamlog",
-    "storage_bucket": "regsamlog.appspot.com"
+    "project_number": "978393766531",
+    "firebase_url": "https://samichatting2firebase.firebaseio.com",
+    "project_id": "samichatting2firebase",
+    "storage_bucket": "samichatting2firebase.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123788200508:android:516e8dbe06a33403",
+        "mobilesdk_app_id": "1:978393766531:android:45189f6de6fa90b2",
         "android_client_info": {
-          "package_name": "com.apkglobal.regsamlog"
+          "package_name": "com.apkglobal.reglog"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123788200508-05l9c2ojt1nscp9b3up7spqsi06bl9kr.apps.googleusercontent.com",
+          "client_id": "978393766531-brv3068p8cll6euna8pou8ceut4aogjn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCRQFko2k0TjDzqW2-NsOFvoLsyNx7pfWk"
+          "current_key": "AIzaSyBTkjWyfy7AWjS5zA3eaI8ZozRlfrRAhAY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "123788200508-05l9c2ojt1nscp9b3up7spqsi06bl9kr.apps.googleusercontent.com",
+              "client_id": "978393766531-brv3068p8cll6euna8pou8ceut4aogjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978393766531:android:516e8dbe06a33403",
+        "android_client_info": {
+          "package_name": "com.apkglobal.regsamlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978393766531-brv3068p8cll6euna8pou8ceut4aogjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTkjWyfy7AWjS5zA3eaI8ZozRlfrRAhAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978393766531-brv3068p8cll6euna8pou8ceut4aogjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978393766531:android:7f389026c01f6fc3",
+        "android_client_info": {
+          "package_name": "com.samcompany.samichatting2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978393766531-uekkqnahesloee0asqcf0ppg5dh3fi3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samcompany.samichatting2",
+            "certificate_hash": "b87d4c27b348febad0d0398e9d04bff881ef3888"
+          }
+        },
+        {
+          "client_id": "978393766531-brv3068p8cll6euna8pou8ceut4aogjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTkjWyfy7AWjS5zA3eaI8ZozRlfrRAhAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978393766531-brv3068p8cll6euna8pou8ceut4aogjn.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
